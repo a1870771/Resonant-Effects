@@ -1,0 +1,4 @@
+minio server ~/minio --console-address :9090 --address :9001
+back: yarn start
+admin: "
+store: yarn run dev
